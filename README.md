@@ -1,4 +1,4 @@
-***To get the website up and running, please follow these steps:***
+***To get the website up and running, please follow these steps: ( in VS code )***
 
 1. **Clone the repository:**
    - Begin by cloning the repository to your local machine.
