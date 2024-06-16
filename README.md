@@ -1,5 +1,7 @@
 ## Airline-Management
 
+***If you are testing the website, please follow to the guidelines mentioned at the Development steps of this README.md file.***
+
 This repository showcases a web application built using the MERN stack, which includes:
 
 **MongoDB**: A NoSQL database for storing application data.
@@ -12,7 +14,6 @@ This repository showcases a web application built using the MERN stack, which in
 
 The application leverages Node.js as the server powered by a MongoDB database. 
 
-**If you are testing the website, please follow to the guidelines mentioned at the Development steps of this README.md file.**
 
 #
 
