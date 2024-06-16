@@ -12,6 +12,8 @@ This repository showcases a web application built using the MERN stack, which in
 
 The application leverages Node.js as the server powered by a MongoDB database. Below are some key interfaces of the application.
 
+**If you are testing the website, please follow to the guidelines mentioned at the Development steps of this README.md file.**
+
 ***Main page of the web application***
 
 ![Screenshot (8)](https://github.com/Deviprasad0815/Airline-Management/assets/131675492/d26c0604-1cf2-4f18-b8f7-8899da728958)
@@ -34,7 +36,6 @@ The application leverages Node.js as the server powered by a MongoDB database. B
 
 # Development steps
 
-**If you are testing the website, please follow to the guidelines mentioned at the bottom of this README.md file.**
 
 
 ***To get the website up and running, please follow these steps: ( in VS code )***
