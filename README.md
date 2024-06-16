@@ -1,6 +1,6 @@
 ## Airline-Management
 
-***If you are testing the website, please follow to the guidelines mentioned at the Development steps of this README.md file.***
+***If you are testing the website, go (To test the website, please follow these guidelines:) in the Development steps of this README.md file***
 
 This repository showcases a web application built using the MERN stack, which includes:
 
