@@ -1,3 +1,6 @@
+**If you are testing the website, please follow to the guidelines mentioned at the bottom of this README.md file.**
+
+
 ***To get the website up and running, please follow these steps: ( in VS code )***
 
 1. **Clone the repository:**
