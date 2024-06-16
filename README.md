@@ -1,4 +1,4 @@
-# Airline-Management
+## Airline-Management
 
 This repository showcases a web application built using the MERN stack, which includes:
 
