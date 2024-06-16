@@ -60,3 +60,5 @@ Now, the website should be operational on your local computer, and you can proce
      - Chennai to Mumbai on June 21
      - Kolkata to Bangalore on June 22
      - Visakhapatnam to Hyderabad on June 22
+    
+3. Begin by selecting your preferred seat, ensuring your comfort throughout the flight. Next, enter your traveler details to personalize your journey. Review all the information to ensure everything is in order before proceeding to the payment simulation. Since this is a mock-up, there’s no actual transaction—simply navigate back to find your ticket securely saved in your profile, ready for your upcoming adventure!
