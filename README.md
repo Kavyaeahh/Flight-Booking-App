@@ -1,3 +1,39 @@
+# Airline-Management
+
+This repository showcases a web application built using the MERN stack, which includes:
+
+**MongoDB**: A NoSQL database for storing application data.
+
+**Express.js**: A web application framework for Node.js.
+
+**React.js**: A JavaScript library for building user interfaces.
+
+**Node.js**: A JavaScript runtime for server-side programming.
+
+The application leverages Node.js as the server powered by a MongoDB database. Below are some key interfaces of the application.
+
+***Main page of the web application***
+
+![Screenshot (8)](https://github.com/Deviprasad0815/Airline-Management/assets/131675492/d26c0604-1cf2-4f18-b8f7-8899da728958)
+
+***Sign up page***
+
+![Screenshot (16)](https://github.com/Deviprasad0815/Airline-Management/assets/131675492/6f86e50c-9613-4dce-b9d7-010aca3f4769)
+
+***Search flights page***
+
+![Screenshot (12)](https://github.com/Deviprasad0815/Airline-Management/assets/131675492/f5c087e5-7bf2-4c09-b2a2-838a70b18a98)
+
+***Seat Reservation page***
+
+![Screenshot (13)](https://github.com/Deviprasad0815/Airline-Management/assets/131675492/e1ea75d7-3be4-455a-ba35-78863ff459b1)
+
+***User profile page***
+
+![Screenshot (17)](https://github.com/Deviprasad0815/Airline-Management/assets/131675492/5b45771c-78a7-4a58-bfac-845d657f0a34)
+
+# Development steps
+
 **If you are testing the website, please follow to the guidelines mentioned at the bottom of this README.md file.**
 
 
