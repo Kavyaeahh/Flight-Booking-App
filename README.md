@@ -10,9 +10,12 @@ This repository showcases a web application built using the MERN stack, which in
 
 **Node.js**: A JavaScript runtime for server-side programming.
 
-The application leverages Node.js as the server powered by a MongoDB database. Below are some key interfaces of the application.
+The application leverages Node.js as the server powered by a MongoDB database. 
 
 **If you are testing the website, please follow to the guidelines mentioned at the Development steps of this README.md file.**
+
+
+Below are some key interfaces of the application.
 
 ***Main page of the web application***
 
