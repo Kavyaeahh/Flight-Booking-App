@@ -50,7 +50,7 @@ Below are some key interfaces of the application.
    - You will find two main folders: `frontend` and `backend`.
 
 2. **Set up the backend:**
-   - Open a terminal and execute the following commands:
+   - Open a terminal and execute the following commands :
      ```
      cd backend
      npm install
