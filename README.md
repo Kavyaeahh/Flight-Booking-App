@@ -1,6 +1,5 @@
 ##  Airline-Management
 
-***If you are testing the website, go (To test the website, please follow these guidelines:) in the Development steps of this README.md file***
 
 This repository showcases a web application built using the MERN stack, which includes:
 
@@ -14,36 +13,42 @@ This repository showcases a web application built using the MERN stack, which in
 
 The application leverages Node.js as the server powered by a MongoDB database. 
 
+**Key Features of the Flight Booking Website:**
 
-#
+1) User Registration
+The website requires all users to create an account to book flights. The process involves signing up with essential details such as name, email address, and password. Existing users can log in to their accounts using their credentials.
 
-Below are some key interfaces of the application.
+2) Flight Search
+  Users can search for flights based on:
+    • Departure and Destination Cities: Enter the desired locations to view available flights.
+    • Travel Date: Specify the departure date to narrow down flight options.
+    • Preferences: Additional filters may include direct flights, preferred airlines, or flight timings.
 
-***Main page of the web application***
+3) Flight Selection
+  From the search results, users can:
+    • Browse available flight options tailored to their input.
+    • View important details such as departure time, arrival time, flight duration, layovers (if any), and price.
+    • Select the most suitable flight for their journey.
 
-# ![Screenshot (8)](https://github.com/Deviprasad0815/Airline-Management/assets/131675492/d26c0604-1cf2-4f18-b8f7-8899da728958)
+4) Booking Process
+  Once a flight is selected, the user is guided through a seamless booking process:
+    • Seat Selection: Choose from available seats on the flight, such as aisle, window, or premium options.
+    • Traveler Details: Input details of the passengers, including name, age, and ID details (if required).
+    • Review Information: Double-check the flight details, seat preferences, and traveler information before proceeding to payment.
+    • Payment Simulation: The website simulates a payment gateway for testing purposes. While no real transaction takes place, users can experience the full process of booking a flight.
 
-***Sign up page***
+5) Ticket Retrieval
+  After completing the booking process, users can:
+    • Access their flight tickets in the Profile section.
+    • View booking confirmations, including seat number, flight details, and other relevant information.
 
-# ![Screenshot (16)](https://github.com/Deviprasad0815/Airline-Management/assets/131675492/6f86e50c-9613-4dce-b9d7-010aca3f4769)
-
-***Search flights page***
-
-# ![Screenshot (12)](https://github.com/Deviprasad0815/Airline-Management/assets/131675492/f5c087e5-7bf2-4c09-b2a2-838a70b18a98)
-
-***Seat Reservation page***
-
-# ![Screenshot (13)](https://github.com/Deviprasad0815/Airline-Management/assets/131675492/e1ea75d7-3be4-455a-ba35-78863ff459b1)
-
-***User profile page***
-
-# ![Screenshot (17)](https://github.com/Deviprasad0815/Airline-Management/assets/131675492/5b45771c-78a7-4a58-bfac-845d657f0a34)
+6) E-Ticket Access
+  Users can view their electronic tickets (E-tickets) directly in their profiles.
+  The platform offers options to:
+    • Share the E-ticket via email or other digital means.
+    • Download the ticket as a PDF for offline access.
 
 # Development steps
-
-
-
-***To get the website up and running, please follow these steps: ( in VS code )***
 
 1. **Clone the repository:**
    - Begin by cloning the repository to your local machine.
@@ -51,34 +56,25 @@ Below are some key interfaces of the application.
 
 2. **Set up the backend:**
    - Open a terminal and execute the following commands :
-     ```
      cd backend
      npm install
      npm start
-     ```
+     
    - Confirm that the backend is running.
 
 3. **Set up the frontend:**
-   - Open a new terminal and run these commands:
-     ```
+   - Open a new terminal and to run these commands:
      cd frontend
      npm install
-     ```
-   - If you encounter any errors, try:
-     ```
+
+   - try IF FACING ERRORS:
      npm install --legacy-peer-deps
-     ```
-   - Then start the frontend:
-     ```
-     npm run start
-     ```
+     
+   - Then start the frontend using npm run start
    - Verify that the frontend is running.
 
 Now, the website should be operational on your local computer, and you can proceed with testing.
 
-#
-
-***Explore the key features of the website:***
 
 1. **User Registration:**         Sign up is required for booking flights.
 
@@ -92,9 +88,7 @@ Now, the website should be operational on your local computer, and you can proce
 
 6. **E-Ticket Access:**           View and manage your e-tickets in your profile, with options to share and download.
 
-#
-
-***To test the website, please follow these guidelines:***
+## TESING THE APPLICATION
 
 1. **Login Credentials:**
    - Use the following details to log in OR you can sign up with your own mail ID:
